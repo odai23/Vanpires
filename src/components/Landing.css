@@ -1,0 +1,32 @@
+.landing-img {
+  background-image: url(../../public/images/background.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  background-position: center;
+}
+.landing-img h1 {
+  font-family: "GFS Didot", serif;
+  font-size: 4rem;
+  padding-left: 3.3rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  text-shadow: 2px 4px 4px rgba(0, 0, 0, 0.5);
+}
+.moving-span {
+  color: black;
+}
+@media screen and (max-width: 431px) {
+  .landing-img h1 {
+    font-size: 2rem;
+  }
+}
+
+@media screen and (max-width: 734px) {
+  .landing-img h1 {
+    font-size: 3rem;
+    padding-left: 1rem;
+  }
+}
