@@ -48,7 +48,6 @@ const Services = () => {
           phone={<FaPhoneAlt />}
         />
         <Card
-          boxes="Boxes and bubble wrap on request"
           title="Furniture Disposal"
           icon="../../public/images/Furniture_Disposal.png"
           price="Contact us for prices information"

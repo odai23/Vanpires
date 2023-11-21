@@ -9,7 +9,7 @@ const Card = (props) => {
       <img src={props.icon} alt="" />
       <div className="price">
         {props.true && <span className="amount">{props.price}</span>}
-        {props.boxes && (
+        {props.phone && (
           <span className="call_us">
             {props.phone} {props.price}
           </span>
