@@ -13,7 +13,7 @@ const AboutUs = () => {
         stress-free.
       </p>
       <div className="second_text">
-        <img className="about_img" src="../../public/images/aboutUs.jpg" />
+        <img className="about_img" src="/images/aboutUs.jpg" />
         <p className="about_text_right">
           Our team's friendly attitude extends to our moving services, where
           clients can trust in the professionalism and care with which their

@@ -11,7 +11,7 @@ const Services = () => {
         <Card
           true="true"
           title="Basic"
-          icon="../../public/images/van_1.png"
+          icon="/images/van_1.png"
           price="1000 czk"
           helper="1 helper"
         />
@@ -19,14 +19,14 @@ const Services = () => {
           true="true"
           isPopular="true"
           title="Popular"
-          icon="../../public/images/van_2.png"
+          icon="/images/van_2.png"
           price="1400 czk"
           helper="2 helpers"
         />
         <Card
           true="true"
           title="Advanced"
-          icon="../../public/images/van_3.png"
+          icon="/images/van_3.png"
           price="1800 czk"
           helper="3 helpers"
         />
@@ -36,20 +36,20 @@ const Services = () => {
         <Card
           boxes="Boxes and bubble wrap on request"
           title="House Clearance"
-          icon="../../public/images/house_clearance.png"
+          icon="/images/house_clearance.png"
           price="Contact us for prices information"
           phone={<FaPhoneAlt />}
         />
         <Card
           boxes="Boxes and bubble wrap on request"
           title="Relocation services"
-          icon="../../public/images/relocation_services.jpg"
+          icon="/images/relocation_services.jpg"
           price="Contact us for prices information"
           phone={<FaPhoneAlt />}
         />
         <Card
           title="Furniture Disposal"
-          icon="../../public/images/Furniture_Disposal.png"
+          icon="/images/Furniture_Disposal.png"
           price="Contact us for prices information"
           phone={<FaPhoneAlt />}
         />

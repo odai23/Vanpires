@@ -75,7 +75,7 @@ const Form = () => {
         />
         <input type="submit" value="Send" />
       </form>
-      <img className="moving_img" src="../../public/images/moving.jpeg" />
+      <img className="moving_img" src="/images/moving.jpeg" />
     </div>
   );
 };
