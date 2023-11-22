@@ -46,7 +46,7 @@ const Navbar = () => {
               window.scrollTo(0, 0);
             }}
             href="#">
-            <img src="../../public/images/logo_v.png" alt="Logo" />
+            <img src="/images/logo_v.png" alt="Logo" />
           </a>
         </div>
         <div className="navbar_toggle" id="mobile-menu" onClick={handleClick}>
