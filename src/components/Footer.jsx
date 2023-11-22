@@ -13,8 +13,8 @@ const Footer = () => {
         <h2>Contact Info:</h2>
         <div className="contact_parag">
           <p className="phone_number">+420 737 655 433</p>
-          <p>Vanpiers</p>
-          <p>Location : Preaha 8</p>
+          <p>Vanpires</p>
+          <p>Location : Praha 8</p>
           <p>IČO : 09177949 </p>
         </div>
       </div>
