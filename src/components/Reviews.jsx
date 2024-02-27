@@ -31,8 +31,7 @@ const Reviews = () => {
                 <img src="/images/1.png" alt="" srcset="" />
               </div>
               <div class="details">
-                <h3>Jessica partices</h3>
-                <span>Creative Designer</span>
+                <h3>Jessica</h3>
               </div>
               <div class="user-icon">...</div>
             </div>
@@ -53,7 +52,7 @@ const Reviews = () => {
                 <i class="active star"></i>
                 <i class="active star"></i>
                 <i class="active star"></i>
-                <i class="star"></i>
+                <i class="active star"></i>
               </div>
             </div>
             <div class="user">
@@ -61,8 +60,7 @@ const Reviews = () => {
                 <img src="/images/2.png" alt="" srcset="" />
               </div>
               <div class="details">
-                <h3>Adam jonson</h3>
-                <span>writer content</span>
+                <h3>Adam</h3>
               </div>
               <div class="user-icon">...</div>
             </div>
@@ -74,9 +72,9 @@ const Reviews = () => {
             </div>
             <div class="content">
               <p>
-                Couldn't be happier with Vanpires! From the initial
-                contact to the final delivery, the team exhibited
-                professionalism and expertise.
+                Couldn't be happier with Vanpires! From the initial contact to
+                the final delivery, the team exhibited professionalism and
+                expertise.
               </p>
               <div class="reviews">
                 <i class="active star"></i>
@@ -91,8 +89,7 @@ const Reviews = () => {
                 <img src="/images/3.png" alt="" srcset="" />
               </div>
               <div class="details">
-                <h3>Maya findish</h3>
-                <span>hr manager</span>
+                <h3>Maya</h3>
               </div>
               <div class="user-icon">...</div>
             </div>

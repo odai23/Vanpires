@@ -15,7 +15,7 @@
   padding: 4rem;
 }
 .about_heading {
-  padding-bottom: 4rem;
+  padding-bottom: 2rem;
   font-family: "Inter", sans-serif;
   text-transform: uppercase;
   text-align: center;
@@ -50,10 +50,13 @@
     width: 100%;
     align-self: center;
   }
+  .text_wrapper {
+    padding: 0rem;
+  }
 }
 @media screen and (max-width: 734px) {
   .about_sec {
-    padding: 0 3rem;
+    flex-direction: column;
   }
   .second_text {
     display: flex;
@@ -62,6 +65,10 @@
   }
   .about_img {
     width: 100%;
+    padding-top: 2rem;
+  }
+  .text_wrapper {
+    padding: 0rem;
   }
 }
 
@@ -76,5 +83,6 @@
   }
   .about_img {
     width: 100%;
+    padding-top: 2rem;
   }
 }
