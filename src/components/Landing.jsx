@@ -5,7 +5,7 @@ const Landing = () => {
   return (
     <div className="landing-img" id="landing-img">
       <h1>
-        Unleash the power of <span className="moving-span">moving</span>
+        Best Moving Services <span className="moving-span">in prague</span>
       </h1>
     </div>
   );

@@ -20,7 +20,7 @@ const AboutUs = () => {
         </p>
       </div>
       <div className="img_wrapper">
-        <img className="about_img" src="/images/aboutUs.jpg" />
+        <img className="about_img" src="/images/aboutUs.jpg" alt="workers with boxes" />
       </div>
     </div>
   );
